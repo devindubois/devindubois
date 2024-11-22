@@ -6,7 +6,7 @@
 - devindubois@ufl.edu
 - devindubois03@gmail.com
 
-My best projects:
+Notable projects:
 
 [Eggsplore Oasis: Ducks Unlimited Charity](https://github.com/myleecsmith/egg-depot)
 
