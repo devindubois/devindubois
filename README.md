@@ -16,7 +16,7 @@ Notable projects:
 
 [Minesweeper](https://github.com/devindubois/Minesweeper-project-3-cop3503)
 
-[Scratch Games from my childhood](https://scratch.mit.edu/users/devindubois/)
+[Scratch Games I made in my childhood](https://scratch.mit.edu/users/devindubois/)
 <!---
 devindubois/devindubois is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
