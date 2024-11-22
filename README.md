@@ -8,7 +8,9 @@
 
 My best projects:
 [Eggsplore Oasis: Ducks Unlimited Charity](https://github.com/myleecsmith/egg-depot)
+
 [ML House Price Prediction](https://deepnote.com/workspace/Location%20Pricing-c6dca2a8-6bf2-445a-a985-945f5e71ceb7/project/Trey-Koloss-Untitled-project-7db75346-9938-4ab2-b427-4ed975af08a2/notebook/Notebook%201-f4d0f380a52c42efa165e114de48d298) 
+
 [Light Controlled Fan](https://github.com/RAMERCADO1/MCLab4/tree/main)
 
 <!---
