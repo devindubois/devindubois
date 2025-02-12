@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devindubois
 - 👀 I’m interested in coding, python, Java, SQL, C++, Machine learning, cloud computing, and software engineering
-- 🌱 I’m currently learning CS at the University of Florida and am planning to graduate on December 2025
+- 🌱 I’m currently learning CS at the University of Florida and am planning to graduate on May 2026
 - 💞️ I’m looking for an internship for the summer of 2025
 - 📫 How to reach me:
 - devindubois@ufl.edu
