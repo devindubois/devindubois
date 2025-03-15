@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devindubois
-- 👀 I’m interested in coding, python, Java, SQL, C++, Machine learning, cloud computing, and software engineering
+- 👀 I’m interested in AI, Data engineering, cloud computing, and software engineering.
 - 🌱 I’m currently learning CS at the University of Florida and am planning to graduate on May 2026
-- 💞️ I’m looking for an internship for the summer of 2025
+- 💞️ I’m looking for an internship for the summer or fall of 2025
 - 📫 How to reach me:
 - devindubois@ufl.edu
 - devindubois03@gmail.com
@@ -9,6 +9,7 @@
 Notable projects:
 
 [Polygo: educational computer science website](https://polygo.study)
+Polygo serves as a way to learn and stay familiar with data structures and algorithms. Whether you are just starting to learn or have studied them in the past, Polygo offers a fun way to get practice in without needing to pick up a textbook. Inspired by Duolingo's gameified approach to learning a language, we hoped to replicated the experience to help developers get ready for interviews.
 
 [Eggsplore Oasis: Ducks Unlimited Charity](https://github.com/myleecsmith/egg-depot)
 
