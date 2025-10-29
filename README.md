@@ -16,7 +16,7 @@ Polygo is a way to learn and stay familiar with data structures and algorithms. 
 
 [Solar Fan](https://github.com/RAMERCADO1/MCLab4/tree/main)
 
-[Research Infographic: Cloud Based Architecture](Research Paper Cloud.pdf)
+[Research Infographic: Cloud Based Architecture](devindubois/Research Paper Cloud.pdf)
 
 <!---
 devindubois/devindubois is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
