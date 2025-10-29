@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @devindubois
-- 👀 I’m interested in AI, Data engineering, cloud computing, and software engineering.
+- 👀 I’m interested in Data engineering, cloud computing, microservice architecture, and Web development.
 - 🌱 I’m currently learning CS at the University of Florida and am planning to graduate on May 2026
-- 💞️ I’m looking for an internship for the summer or fall of 2025
 - 📫 How to reach me:
-- devindubois@ufl.edu
 - devindubois03@gmail.com
 
 
@@ -18,7 +16,7 @@ Polygo is a way to learn and stay familiar with data structures and algorithms. 
 
 [Solar Fan](https://github.com/RAMERCADO1/MCLab4/tree/main)
 
-
+<iframe src="Research Paper Cloud.pdf" width="100%" height="500" frameborder="0"></iframe>
 
 <!---
 devindubois/devindubois is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
