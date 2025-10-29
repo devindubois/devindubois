@@ -7,10 +7,12 @@
 - devindubois03@gmail.com
 
 
-[Polygo: educational computer science website](https://polygo.study)
+[Polygo: educational computer science website](https://github.com/nowji/Polygo)
 Polygo is a way to learn and stay familiar with data structures and algorithms. Whether you are just starting to learn them or have studied them in the past, Polygo offers a fun way to get practice without needing to pick up a textbook. Inspired by Duolingo's gamified approach to learning a language, we hoped to replicate the experience to help developers prepare for interviews.
 
 [Eggsplore Oasis: Ducks Unlimited Charity](https://github.com/myleecsmith/egg-depot)
+[Live Demonstration](https://www.youtube.com/watch?v=zNdaQAaF5pI)
+
 
 [ML House Pricing Analysis](https://deepnote.com/workspace/Location%20Pricing-c6dca2a8-6bf2-445a-a985-945f5e71ceb7/project/Trey-Koloss-Untitled-project-7db75346-9938-4ab2-b427-4ed975af08a2/notebook/Notebook%201-f4d0f380a52c42efa165e114de48d298) 
 
