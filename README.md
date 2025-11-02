@@ -1,32 +1,47 @@
 👋 Hi, I’m Devin DuBois. I’m interested in Data engineering, cloud computing, microservice architecture, and Web development.
-\n
+<br>  
 🌱 I’m currently learning CS at the University of Florida and am planning to graduate on May 2026.
-
+<br>  
 📫 Email: devindubois03@gmail.com
+<br>  
 
 <h2>Projects</h2>
 [Blackjack PNL Simulator](https://github.com/devindubois/BlackJack-Sim) - Fall 2025 - In Progress
 
 [Polygo: educational computer science website](https://github.com/nowji/Polygo) - Spring 2025
+<br>  
 
 [ML House Pricing Analysis](https://deepnote.com/workspace/Location%20Pricing-c6dca2a8-6bf2-445a-a985-945f5e71ceb7/project/Trey-Koloss-Untitled-project-7db75346-9938-4ab2-b427-4ed975af08a2/notebook/Notebook%201-f4d0f380a52c42efa165e114de48d298) - Summer 2024
+<br>  
 
 [Eggsplore Oasis: Ducks Unlimited Charity](https://github.com/myleecsmith/egg-depot) - Spring 2024
 [Live Demonstration](https://www.youtube.com/watch?v=zNdaQAaF5pI)
+<br>  
 
 [Solar Fan](https://github.com/RAMERCADO1/MCLab4/tree/main) - Spring 2024
+<br>  
 
 [Minesweeper](https://github.com/devindubois/Minesweeper-project) - Spring 2022
 
 
+<br>  
 
 <h2>Academic </h2>
 [Research Infographic: Cloud Based Architecture](https://github.com/devindubois/devindubois/blob/main/Research%20Paper%20Cloud.pdf)
+<br>  
+
 [AI research: Sea Turtle Conservation Project](https://github.com/devindubois/devindubois/blob/main/SeaTurtle.pdf)
+<br>  
+
 [The Impact of Demographic and Clinical Factors on Lung Disease Development and Recovery Outcomes](https://github.com/devindubois/devindubois/blob/main/StatisticalModelinig.pdf)
+<br>  
 
 Affiliations
+<br>  
+
 ⚜ Eagle Scout, Boy Scouts of America, 2021 ⚜ 
+<br>  
+
 Sigma Nu Fraternity, ΣN @ UF 
 
 
