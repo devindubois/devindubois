@@ -2,7 +2,7 @@
 🌱 I’m currently learning CS at the University of Florida and am planning to graduate on May 2026.
 📫 Email: devindubois03@gmail.com
 
-Projects
+<h2>Projects</h2>
 [Blackjack PNL Simulator](https://github.com/devindubois/BlackJack-Sim) - Fall 2025 - In Progress
 
 [Polygo: educational computer science website](https://github.com/nowji/Polygo) - Spring 2025
@@ -18,7 +18,7 @@ Projects
 
 
 
-Academic Research
+<h2>Academic </h2>
 [Research Infographic: Cloud Based Architecture](https://github.com/devindubois/devindubois/blob/main/Research%20Paper%20Cloud.pdf)
 [AI research: Sea Turtle Conservation Project](https://github.com/devindubois/devindubois/blob/main/SeaTurtle.pdf)
 [The Impact of Demographic and Clinical Factors on Lung Disease Development and Recovery Outcomes](https://github.com/devindubois/devindubois/blob/main/StatisticalModelinig.pdf)
