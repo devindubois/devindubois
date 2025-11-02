@@ -1,5 +1,7 @@
 👋 Hi, I’m Devin DuBois. I’m interested in Data engineering, cloud computing, microservice architecture, and Web development.
+\n
 🌱 I’m currently learning CS at the University of Florida and am planning to graduate on May 2026.
+
 📫 Email: devindubois03@gmail.com
 
 <h2>Projects</h2>
