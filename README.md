@@ -7,7 +7,7 @@
 
 <h2>Projects</h2>
 [Blackjack PNL Simulator](https://github.com/devindubois/BlackJack-Sim) - Fall 2025 - In Progress
-
+<br>
 [Polygo: educational computer science website](https://github.com/nowji/Polygo) - Spring 2025
 <br>  
 
