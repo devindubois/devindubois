@@ -7,28 +7,28 @@
 
 <h2>Projects</h2>
 
-[Blackjack PNL Simulator](https://github.com/devindubois/BlackJack-Sim) - Fall 2025 - In Progress
+[Blackjack PNL Simulator (Project Leader)](https://github.com/devindubois/BlackJack-Sim) - Fall 2025 - In Progress
 <br>
 
-[Polygo: educational computer science website](https://github.com/nowji/Polygo) - Spring 2025
+[Swamphacks X: Polygo, an educational computer science website]([https://github.com/nowji/Polygo](https://github.com/nowji/Polygo)) - Spring 2025
 <br>  
 
-[ML House Pricing Analysis](https://deepnote.com/workspace/Location%20Pricing-c6dca2a8-6bf2-445a-a985-945f5e71ceb7/project/Trey-Koloss-Untitled-project-7db75346-9938-4ab2-b427-4ed975af08a2/notebook/Notebook%201-f4d0f380a52c42efa165e114de48d298) - Summer 2024
+[Machine Learning: House Pricing Data Analysis](https://deepnote.com/workspace/Location%20Pricing-c6dca2a8-6bf2-445a-a985-945f5e71ceb7/project/Trey-Koloss-Untitled-project-7db75346-9938-4ab2-b427-4ed975af08a2/notebook/Notebook%201-f4d0f380a52c42efa165e114de48d298) - Summer 2024
 <br>  
 
 [Eggsplore Oasis: Ducks Unlimited Charity](https://github.com/myleecsmith/egg-depot) - Spring 2024
 [Live Demonstration](https://www.youtube.com/watch?v=zNdaQAaF5pI)
 <br>  
 
-[Solar Fan](https://github.com/RAMERCADO1/MCLab4/tree/main) - Spring 2024
+[IOT Solar Fan](https://github.com/RAMERCADO1/MCLab4/tree/main) - Spring 2024
 <br>  
 
-[Minesweeper](https://github.com/devindubois/Minesweeper-project) - Spring 2022
+[Minesweeper Desktop App C++](https://github.com/devindubois/Minesweeper-project) - Spring 2022
 
 
 <br>  
 
-<h2>Academic </h2>
+<h2>Academic </h2> 
 [Research Infographic: Cloud Based Architecture](https://github.com/devindubois/devindubois/blob/main/Research%20Paper%20Cloud.pdf)
 <br>  
 
